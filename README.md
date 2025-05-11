@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📦 E-Commerce Sales & Return Import Tool
 
 This Excel tool helps you automate the import of online sales and return data (from Amazon, Flipkart, etc.) into your accounting software by converting raw data into a structured format that meets import requirements.
